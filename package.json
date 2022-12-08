@@ -1,0 +1,27 @@
+{
+  "name": "teste-lib-npm",
+  "version": "1.0.0",
+  "description": "Pacote de teste para deploy de lib no npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo-DevTallos/repositorio-teste-npm.git"
+  },
+  "keywords": [
+    "teste",
+    "npm",
+    "lib",
+    "biblioteca",
+    "js",
+    "javascript"
+  ],
+  "author": "paulodevmais <paulo.sergio@tallos.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paulo-DevTallos/repositorio-teste-npm/issues"
+  },
+  "homepage": "https://github.com/Paulo-DevTallos/repositorio-teste-npm#readme"
+}
